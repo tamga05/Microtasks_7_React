@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Microtasks_7_React/static/css/main.8785da40.css",
+    "main.js": "/Microtasks_7_React/static/js/main.a7725876.js",
+    "index.html": "/Microtasks_7_React/index.html",
+    "main.8785da40.css.map": "/Microtasks_7_React/static/css/main.8785da40.css.map",
+    "main.a7725876.js.map": "/Microtasks_7_React/static/js/main.a7725876.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8785da40.css",
+    "static/js/main.a7725876.js"
+  ]
+}

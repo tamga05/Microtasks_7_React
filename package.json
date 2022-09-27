@@ -2,7 +2,7 @@
   "name": "microtasks-7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tamga05.github.io/Microtasks_7_Associative_Array_React",
+  "homepage": "https://tamga05.github.io/Microtasks_7_React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
